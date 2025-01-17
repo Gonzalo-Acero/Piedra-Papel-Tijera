@@ -1,3 +1,3 @@
 # Piedra-Papel-Tijera
 
-Practicando y aprendiendo Python con ejercicios. Nivel Beginner/Principiante.
+Practicando y aprendiendo Python con ejercicios. Nivel `Beginner/Principiante.`
